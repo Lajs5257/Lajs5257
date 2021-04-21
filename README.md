@@ -13,6 +13,7 @@
 
 <a href="https://fb.com/luisalberto.jimenez.10297" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174848.svg?token=exp=1619036927~hmac=f8ce033f5cb00a08ddd2a99c9afa2c21" alt="luisalberto" height="30" width="40" /></a>
 <a href="https://instagram.com/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1619036975~hmac=f5bfb6bd911a197ca93f1c296693e509" alt="instagram" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luis-alberto-jimenez-soto-b0210920a/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619038335~hmac=ce81eab0faf4ddc986e804138ef58387" alt="luis-alberto-jimenez-soto" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
