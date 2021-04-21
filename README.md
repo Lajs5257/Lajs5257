@@ -11,8 +11,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://fb.com/luisalberto.jimenez.10297" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="luisalberto" height="30" width="40" /></a>
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://fb.com/luisalberto.jimenez.10297" target="blank"><img align="center" src="https://seeklogo.com/images/F/facebook-logo-0AA7913C4D-seeklogo.com.png" alt="luisalberto" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center" src="https://seeklogo.com/images/I/instagram-new-2016-logo-D9D42A0AD4-seeklogo.com.png" alt="instagram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
