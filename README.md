@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lajs5257&label=Profile%20views&color=0e75b6&style=flat-square" alt="Lajs5257" /> </p>
 <p align="left"> - I am currently learning java, C#, Python, Java and C++ <img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" alt="csharp" width="30" height="30"> <img src="https://brandeps.com/icon-download/J/Java-icon-vector-05.svg" alt="java" width="30" height="30"> <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python" width="20" height="20"> </p>
 
-- All my projects are available at [🚀](#Repositories)
+- All my projects are available at [🚀](#)
 
 - You can contact me by mail [📧](mailto:lajs5257@gmail.com)
 
