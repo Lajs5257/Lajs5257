@@ -2,7 +2,7 @@
 <h3 align="center">A programming student 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lajs5257&label=Profile%20views&color=0e75b6&style=flat-square" alt="Lajs5257" /> </p>
-<p align="left"> - I am currently learning java, C#, Python, Java and C++ <img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" alt="csharp" width="30" height="30"> <img src="https://brandeps.com/icon-download/J/Java-icon-vector-05.svg" alt="java" width="30" height="30"> <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python" width="20" height="20"> </p>
+<p align="left"> - I am currently learning JS, Java, C#, Python, Java and C++ <img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="js" width="30" height="30"> <img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" alt="csharp" width="30" height="30"> <img src="https://brandeps.com/icon-download/J/Java-icon-vector-05.svg" alt="java" width="30" height="30"> <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python" width="20" height="20"> </p>
 
 - All my projects are available at [🚀](https://github.com/Lajs5257?tab=repositories)
 
@@ -11,9 +11,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://fb.com/luisalberto.jimenez.10297" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174848.svg?token=exp=1619036927~hmac=f8ce033f5cb00a08ddd2a99c9afa2c21" alt="luisalberto" height="30" width="40" /></a>
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1619036975~hmac=f5bfb6bd911a197ca93f1c296693e509" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/luis-alberto-jimenez-soto-b0210920a/" target="blank"><img align="center" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1619038335~hmac=ce81eab0faf4ddc986e804138ef58387" alt="luis-alberto-jimenez-soto" height="30" width="40" /></a>
+<a href="https://fb.com/luisalberto.jimenez.10297" target="blank"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="luisalberto" height="40" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="instagram" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/luis-alberto-jimenez-soto-b0210920a/" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="luis-alberto-jimenez-soto" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
