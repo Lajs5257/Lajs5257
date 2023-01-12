@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/luis-alberto-jimenez-soto-b0210920a/" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="luis-alberto-jimenez-soto" height="40" width="40" /></a>
 </p>
 
-[![Spotify](https://spotify-widget-qpy4ap35w-lajs5257.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://spotify-widget-qpy4ap35w-lajs5257.vercel.app/api/spotify)](https://open.spotify.com/user/3dm0bgyc15ma3tmt9q9z2q9f6)
 
 
 <h3 align="left">Languages and Tools:</h3>
