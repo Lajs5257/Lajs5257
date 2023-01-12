@@ -2,7 +2,7 @@
 <h3 align="center">A programming student 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Lajs5257&label=Profile%20views&color=0e75b6&style=flat-square" alt="Lajs5257" /> </p>
-<p align="left"> - I am currently learning JS, Java, C#, Python, Java and C++ <img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="js" width="30" height="30"> <img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" alt="csharp" width="30" height="30"> <img src="https://brandeps.com/icon-download/J/Java-icon-vector-05.svg" alt="java" width="30" height="30"> <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python" width="20" height="20"> </p>
+<p align="left"> - I am currently learning JS, C#, Python, Java and C++ <img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="js" width="30" height="30"> <img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" alt="csharp" width="30" height="30"> <img src="https://brandeps.com/icon-download/J/Java-icon-vector-05.svg" alt="java" width="30" height="30"> <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python" width="20" height="20"> </p>
 
 - All my projects are available at [🚀](https://github.com/Lajs5257?tab=repositories)
 
@@ -16,7 +16,11 @@
 <a href="https://www.linkedin.com/in/luis-alberto-jimenez-soto-b0210920a/" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="luis-alberto-jimenez-soto" height="40" width="40" /></a>
 </p>
 
-[![Spotify](https://spotify-widget-qpy4ap35w-lajs5257.vercel.app/api/spotify)](https://open.spotify.com/user/3dm0bgyc15ma3tmt9q9z2q9f6)
+
+### Spotify Playing 🎧
+
+&nbsp; <div> [![Spotify](https://spotify-widget-gilt.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3dm0bgyc15ma3tmt9q9z2q9f6)
+</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
