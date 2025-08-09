@@ -1,31 +1,64 @@
-<h1 align="center">Hi! I'm Luis Alberto</h1>
-<h3 align="center">A programming student 💻</h3>
+<!-- Profile README -->
+<h1 align="center">Hi, I'm Luis Alberto 👋</h1>
+<p align="center">Full Stack Developer | .NET · Flutter · SQL · Docker · Python</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lajs5257&label=Profile%20views&color=0e75b6&style=flat-square" alt="Lajs5257" /> </p>
-<p align="left"> - I am currently learning JS, C#, Python, Java and C++ <img src="https://img.icons8.com/color/50/000000/javascript--v1.png" alt="js" width="30" height="30"> <img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" alt="csharp" width="30" height="30"> <img src="https://brandeps.com/icon-download/J/Java-icon-vector-05.svg" alt="java" width="30" height="30"> <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" alt="python" width="20" height="20"> </p>
+---
 
-- All my projects are available at [🚀](https://github.com/Lajs5257?tab=repositories)
+### 🚀 About Me
+- 5+ years building web & mobile solutions.
+- Focus: efficient APIs, clean architecture, scalability.
+- I like automating, measuring and refactoring.
+- Currently improving performance and deepening .NET / Flutter architecture.
 
-- You can contact me by mail [📧](mailto:lajs5257@gmail.com)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://fb.com/luisalberto.jimenez.10297" target="blank"><img src="https://img.icons8.com/color/48/000000/facebook.png" alt="luisalberto" height="40" width="40" /></a>
-<a href="https://instagram.com/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="instagram" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/luis-alberto-jimenez-soto-b0210920a/" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="luis-alberto-jimenez-soto" height="40" width="40" /></a>
+### 🧰 Core Stack
+<p>
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" />
 </p>
 
+### 🔭 Current Focus
+- Performance optimization (caching, profiling, DB indexing).
+- Deployment automation (CI/CD + containers).
+- Architecture best practices (.NET Clean / Flutter modularization).
 
-### Spotify Playing 🎧
+### 📂 Portfolio
+👉 https://lajs5257.dev
 
-&nbsp; <div> [![Spotify](https://spotify-widget-gilt.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/3dm0bgyc15ma3tmt9q9z2q9f6)
-</div>
+### 📊 Stats
+<p>
+  <img height="165" src="https://github-readme-stats.abdullahmorrison.vercel.app/api?username=Lajs5257&theme=dark&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.programminddev.vercel.app/api/top-langs/?username=Lajs5257&layout=compact&theme=dark&hide_border=true" />
+</p>
 
+### 🎧 Spotify (Now Playing)
+<p>
+  <a href="https://open.spotify.com/user/3dm0bgyc15ma3tmt9q9z2q9f6">
+    <img src="https://spotify-widget-gilt.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
+  </a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://www.djangoproject.com/" target="_blank"> <img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" alt="django" width="40" height="40"/> </a><a href="https://www.java.com/es/" target="_blank"> <img src="https://brandeps.com/icon-download/J/Java-icon-vector-05.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.microsoft.com/es-mx/sql-server/sql-server-2019" target="_blank"> <img src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png" alt="sql" width="40" height="40"/> <a href="https://visualstudio.microsoft.com/es/" target="_blank"> <img src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg" alt="visualstudio" width="40" height="40"/> </a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank"> <img src="https://www.python.org/static/img/python-logo-large.c36dccadd999.png?1576869008" alt="python" width="40" height="40"/> </a> </p>
+### 🤝 Connect
+<p>
+  <a href="mailto:lajs5257@gmail.com"><img src="https://img.shields.io/badge/Email-lajs5257%40gmail.com-blue?logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/luis-alberto-jimenez-soto/"><img src="https://img.shields.io/badge/LinkedIn-Luis%20Alberto-0A66C2?logo=linkedin" /></a>
+  <a href="https://github.com/Lajs5257"><img src="https://img.shields.io/badge/GitHub-Lajs5257-181717?logo=github" /></a>
+</p>
 
+### ✅ Next Goals
+- [ ] Launch a technical blog (patterns & performance).
+- [ ] Add test coverage badge.
+- [ ] Publish useful .NET / Flutter snippets.
 
-<p><img align="center" src="https://github-readme-stats.abdullahmorrison.vercel.app/api?username=Lajs5257&theme=dark&show_icons=true" alt="Lajs5257" /></p>
-<p><img align="center" src="https://github-readme-stats.programminddev.vercel.app/api/top-langs/?username=Lajs5257&theme=dark&show_icons=true&locale=en&layout=compact" alt="Lajs5257" /></p>
+---
+<sub>Always open to interesting collaborations.</sub>
